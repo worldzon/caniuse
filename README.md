@@ -19,3 +19,4 @@ The data in this repo is available for use under a CC BY 4.0 license (https://cr
 Caniuse.com is created and maintained by Alexis Deveria
 <br>https://caniuse.com/
 <br>https://a.deveria.com/
+<br>https://soriyainc.online/
